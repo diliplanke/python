@@ -14,3 +14,7 @@ def Hello(name):
 def main():
 	Hello(sys.argv[1])
 	
+if __name__ == '__main__':
+main()
+
+	
